@@ -1,0 +1,9 @@
+[
+  {
+    "outputFileName": "wwwroot/js/site.js",
+    "inputFiles": [
+      "wwwroot/js/bamtools.js",
+      "wwwroot/js/custom.js"
+    ]
+  }
+]

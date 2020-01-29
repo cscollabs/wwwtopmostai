@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "regular.css",
+	"sources": [
+		"regular.scss",
+		"_variables.scss"
+	],
+	"mappings": "AAAA;;;GAGG,AAGH,UAAU,CACR,WAAW,CAAE,oBAAqB,CAClC,UAAU,CAAE,MAAO,CACnB,WAAW,CAAE,GAAI,CACjB,GAAG,CAAE,uDAAG,CACR,GAAG,CAAE,8DAAG,CAA+C,2BAAM,CAC7D,yDAAG,CAA0C,eAAM,CACnD,wDAAG,CAAyC,cAAM,CAClD,uDAAG,CAAwC,kBAAM,CACjD,mEAAG,CAAoD,aAAM,CAG/D,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,oBAAqB,CAClC,WAAW,CAAE,GAAI,CAClB",
+	"names": []
+}
